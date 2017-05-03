@@ -1,0 +1,15 @@
+name = Super Fancy
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/bootstrap.css
+scripts[] = js/scripts.js
+scripts[] = js/jquery-3.2.1.js
+scripts[] = js/bootstrap.js
+
+regions[deals] = Deals
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+regions[content] = Content
+regions[help] = Help
+regions[asd] = asd
